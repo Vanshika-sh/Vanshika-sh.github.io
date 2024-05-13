@@ -9,8 +9,8 @@ body {
 .sidebar {
   width: 250px;
   padding: 20px;
-  background: linear-gradient(135deg, #4a0072 70%, #333333); /* Darker purple and extended gradient */
-  color: #ffffff; /* White text in sidebar */
+  background: linear-gradient(160deg, #4a0072 90%, #333333); /* Darker purple and extended gradient */
+  color: #d3d3d3; /* White text in sidebar */
 }
 
 .content {
@@ -33,7 +33,7 @@ img.profile {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color: #f5f5f5 !important; /* Lightest grey headings */
+  color: #d3d3d3 !important; /* Lightest grey headings */
   font-weight: bold; /* Bold headings */
 }
 
