@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Vanshika Sharma
 ---
 
 # Welcome to My Portfolio
