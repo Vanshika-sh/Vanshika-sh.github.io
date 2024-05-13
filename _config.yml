@@ -2,6 +2,7 @@ title: "Vanshika Sharma's Portfolio"
 description: "Data Scientist specializing in NLP and Generative AI"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://Vanshika-sh.github.io" # the base hostname & protocol for your site
+logo: IMG_4069.jpg
 
 # GitHub settings
 github_username: Vanshika-sh
