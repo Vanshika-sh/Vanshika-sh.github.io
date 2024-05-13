@@ -9,8 +9,8 @@ title: Vanshika Sharma
 I am a Data Scientist with an extensive experience of 5 years in leveraging and deploying Machine learning models focused on Natural Language Processing and Generative AI.
 
 ## Technical Skills
-###Programming: Python, PyTorch, TensorFlow, Keras, PySpark, SQL
-###Technologies: Amazon Sagemaker, Azure Databricks, Azure Data Factory, NLP, Database Systems, Large Language/Transformer Models
+### Programming: Python, PyTorch, TensorFlow, Keras, PySpark, SQL
+### Technologies: Amazon Sagemaker, Azure Databricks, Azure Data Factory, NLP, Database Systems, Large Language/Transformer Models
 
 ## Work Experience
 ### Machine Learning Engineer, Nagarro Inc. (Jan 2023 - Present)
