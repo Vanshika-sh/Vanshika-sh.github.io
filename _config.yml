@@ -7,7 +7,7 @@ url: "https://Vanshika-sh.github.io" # the base hostname & protocol for your sit
 github_username: Vanshika-sh
 
 # Theme settings
-theme: jekyll-theme-minimal
+theme: minima
 
 # Site settings
 name: "Vanshika Sharma"
@@ -40,12 +40,12 @@ nav_links:
   - name: "Contact"
     url: "/contact"
 
-# Colors
-colors:
-  background: "#ffffff"
-  text: "#333333"
-  link: "#1e90ff"
-  sidebar: "#f5f5f5"
+# Colors (only some themes support this, minima doesn't)
+# colors:
+#   background: "#ffffff"
+#   text: "#333333"
+#   link: "#1e90ff"
+#   sidebar: "#f5f5f5"
 
 # Plugins
 plugins:
@@ -56,4 +56,5 @@ plugins:
 markdown: kramdown
 highlighter: rouge
 permalink: pretty
+
 
