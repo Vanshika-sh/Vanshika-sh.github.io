@@ -7,6 +7,117 @@ body {
 }
 
 .sidebar {
+  width: 350px;
+  padding: 20px;
+  background: linear-gradient(135deg, #333333, #4a4a4a); /* Gradient from dark grey to darker grey */
+  color: #ffffff; /* White text in sidebar */
+}
+
+.content {
+  flex: 1;
+  padding: 20px;
+  background-color: #000000; /* Black background */
+  color: #d3d3d3; /* Light grey text */
+}
+
+img.profile {
+  max-width: 100%;
+  height: auto;
+  border-radius: 50%; /* This makes the image round */
+  margin-bottom: 20px;
+  display: block; /* Ensures the image is displayed as a block element */
+}
+
+.contact-info {
+  margin-bottom: 20px;
+}
+
+.contact-info a {
+  color: #a9a9a9; /* Dark grey link color for contact info */
+}
+
+.contact-info a:hover {
+  text-decoration: underline;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #f5f5f5 !important; /* Lightest grey headings */
+  font-weight: bold; /* Bold headings */
+}
+
+.nav-links {
+  list-style-type: none;
+  padding: 0;
+  color: #C0C0C0;
+}
+
+.nav-links li {
+  margin-bottom: 10px;
+  color: #C0C0C0;
+}
+
+.nav-links a {
+  text-decoration: none;
+  color: #C0C0C0; /* Dark grey link color for navigation links */
+}
+
+.nav-links a:hover {
+  text-decoration: underline;
+  color: #C0C0C0;
+}
+
+.nav-links ul {
+  padding-left: 20px; /* Indent sub-links */
+  color: #C0C0C0;
+}
+
+form {
+  background: #333333;
+  padding: 20px;
+  border-radius: 5px;
+}
+
+form label, form input, form textarea {
+  color: #ffffff;
+  display: block;
+  margin-bottom: 10px;
+}
+
+form input, form textarea {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #555555;
+  background: #222222;
+  color: #ffffff;
+}
+
+form input[type="submit"] {
+  background: #4a4a4a;
+  border: none;
+  cursor: pointer;
+}
+
+form input[type="submit"]:hover {
+  background: #6a6a6a;
+}
+
+
+
+
+
+
+
+
+
+/* assets/css/custom.css */
+body {
+  display: flex;
+  flex-direction: row;
+  background-color: #000000; /* Black background */
+  color: #d3d3d3; /* Light grey text */
+}
+
+.sidebar {
   width: 250px;
   padding: 20px;
   background: linear-gradient(135deg, #4a4a4a, #c0c0c0); /* Gradient from dark grey to silver */
