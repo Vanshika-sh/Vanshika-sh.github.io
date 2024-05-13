@@ -9,7 +9,7 @@ body {
 .sidebar {
   width: 250px;
   padding: 20px;
-  background: linear-gradient(135deg, #4a4a4a, #c0c0c0); /* Gradient from dark grey to silver */
+  background: linear-gradient(135deg, #333333, #4a4a4a); /* Gradient from dark grey to darker grey */
   color: #ffffff; /* White text in sidebar */
 }
 
@@ -23,7 +23,7 @@ body {
 img.profile {
   max-width: 100%;
   height: auto;
-  border-radius: 100%; /* This makes the image round */
+  border-radius: 50%; /* This makes the image round */
   margin-bottom: 20px;
   display: block; /* Ensures the image is displayed as a block element */
 }
@@ -48,7 +48,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .nav-links a {
   text-decoration: none;
-  color: #1e90ff; /* Link color */
+  color: #a9a9a9; /* Dark grey link color */
 }
 
 .nav-links a:hover {
