@@ -21,9 +21,7 @@ body {
 }
 
 img.profile {
-  max-width: 100%;
   height: auto;
-  border-radius: 100%; /* This makes the image round */
   margin-bottom: 20px;
   display: block; /* Ensures the image is displayed as a block element */
 }
