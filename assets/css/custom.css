@@ -7,7 +7,7 @@ body {
 }
 
 .sidebar {
-  width: 250px;
+  width: 500px;
   padding: 20px;
   background: linear-gradient(135deg, #4a4a4a, #c0c0c0); /* Gradient from dark grey to darker grey */
   color: #ffffff; /* White text in sidebar */
