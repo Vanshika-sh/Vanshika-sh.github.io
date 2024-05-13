@@ -9,19 +9,23 @@ title: Vanshika Sharma
 I am a Data Scientist with an extensive experience of 5 years in leveraging and deploying Machine learning models focused on Natural Language Processing and Generative AI.
 
 ## Technical Skills
-### Programming: Python, PyTorch, TensorFlow, Keras, PySpark, SQL
-### Technologies: Amazon Sagemaker, Azure Databricks, Azure Data Factory, NLP, Database Systems, Large Language/Transformer Models
+### Programming: 
+Python, PyTorch, TensorFlow, Keras, PySpark, SQL
+### Technologies: 
+Amazon Sagemaker, Azure Databricks, Azure Data Factory, NLP, Database Systems, Large Language/Transformer Models
 
 ## Work Experience
-### Machine Learning Engineer, Nagarro Inc. (Jan 2023 - Present)
+### *Machine Learning Engineer, Nagarro Inc.* (Jan 2023 - Present)
 - Devised and executed LLM pipelines using RAG and Prompt Engineering.
 
-### Research Assistant (Machine Learning), SUNY Stony Brook University (May 2022 - Sept 2023)
+### *Research Assistant (Machine Learning), SUNY Stony Brook University* (May 2022 - Sept 2023)
 - Generated Lung CT Images based on conditions using multi-modal Probabilistic Diffusion Models.
 
 ## Education
-- **Masters in Computer Science** from Stony Brook University (Aug 2021 - May 2023)
-- **Bachelor’s in Engineering** from Birla Institute of Technology and Science Pilani (Aug 2015 - Jun 2019)
+### Masters in Computer Science 
+Stony Brook University (Aug 2021 - May 2023)
+### Bachelor’s in Engineering, Computer Science
+Birla Institute of Technology and Science Pilani (Aug 2015 - Jun 2019)
 
 ## Projects
 - **Lung CT Image Generation**: Generated accurate Lung CT Images integrating Denoising Probabilistic Diffusion Models and GPT models.
