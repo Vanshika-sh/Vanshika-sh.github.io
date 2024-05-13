@@ -3,21 +3,21 @@ body {
   display: flex;
   flex-direction: row;
   background-color: #000000; /* Black background */
-  color: #ffffff; /* White text */
+  color: #d3d3d3; /* Light grey text */
 }
 
 .sidebar {
   width: 250px;
   padding: 20px;
-  background-color: #333333; /* Darker sidebar background for contrast */
-  color: #ffffff;
+  background: linear-gradient(135deg, #6a1b9a, #333333); /* Gradient from purple to grey */
+  color: #ffffff; /* White text in sidebar */
 }
 
 .content {
   flex: 1;
   padding: 20px;
   background-color: #000000; /* Black background */
-  color: #ffffff; /* White text */
+  color: #d3d3d3; /* Light grey text */
 }
 
 img.profile {
@@ -25,10 +25,15 @@ img.profile {
   height: auto;
   border-radius: 50%; /* This makes the image round */
   margin-bottom: 20px;
+  display: block; /* Ensures the image is displayed as a block element */
 }
 
 .contact-info {
   margin-bottom: 20px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #ffffff; /* White headings */
 }
 
 .nav-links {
