@@ -9,7 +9,7 @@ body {
 .sidebar {
   width: 250px;
   padding: 20px;
-  background: linear-gradient(135deg, #6a1b9a, #333333); /* Gradient from purple to grey */
+  background: linear-gradient(135deg, #4a0072 70%, #333333); /* Darker purple and extended gradient */
   color: #ffffff; /* White text in sidebar */
 }
 
@@ -33,7 +33,8 @@ img.profile {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color: #ffffff; /* White headings */
+  color: #f5f5f5; /* Lightest grey headings */
+  font-weight: bold; /* Bold headings */
 }
 
 .nav-links {
