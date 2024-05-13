@@ -10,12 +10,12 @@
   </head>
   <body>
     <div class="sidebar">
-      <img src="{{ '/assets/images/IMG_4069.png' | relative_url }}" alt="Profile Image" class="profile">
+      <img src="{{ '/assets/images/profile.jpg' | relative_url }}" alt="Profile Image" class="profile">
       <div class="contact-info">
-        <p><strong>Email:</strong> <a href="mailto:{{ site.email }} style="color:grey;">{{ site.email }}</a></p>
+        <p><strong>Email:</strong> <a href="mailto:{{ site.email }}">{{ site.email }}</a></p>
         <p><strong>Phone:</strong> {{ site.phone }}</p>
-        <p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}" target="_blank" style="color:grey;>{{ site.linkedin_username }}</a></p>
-        <p><strong>GitHub:</strong> <a href="https://github.com/{{ site.github_username }}" target="_blank" style="color:red;>{{ site.github_username }}</a></p>
+        <p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}" target="_blank">{{ site.linkedin_username }}</a></p>
+        <p><strong>GitHub:</strong> <a href="https://github.com/{{ site.github_username }}" target="_blank">{{ site.github_username }}</a></p>
       </div>
       <ul class="nav-links">
         {% for link in site.nav_links %}
