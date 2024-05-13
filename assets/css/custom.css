@@ -40,20 +40,20 @@ h1, h2, h3, h4, h5, h6 {
 .nav-links {
   list-style-type: none;
   padding: 0;
-  color: #a9a9a9;
+  color: #C0C0C0;
 }
 
 .nav-links li {
   margin-bottom: 10px;
-  color: #a9a9a9;
+  color: #C0C0C0;
 }
 
 .nav-links a {
   text-decoration: none;
-  color: #a9a9a9; /* Link color */
+  color: #C0C0C0; /* Link color */
 }
 
 .nav-links a:hover {
   text-decoration: underline;
-  color: #a9a9a9;
+  color: #C0C0C0;
 }
