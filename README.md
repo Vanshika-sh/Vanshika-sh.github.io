@@ -1,9 +1,6 @@
-# Welcome to My Portfolio
+# Machine Learning Engineer
 
-![Profile Image](IMG_4069.jpg)
-
-## Summary
-I am a Data Scientist with an extensive experience of 5 years in leveraging and deploying Machine learning models focused on Natural Language Processing and Generative AI.
+Welcome to my GitHub Pages portfolio! I'm a Data Scientist with 5 years of experience in Machine Learning and Natural Language Processing. Specializing in Generative AI and multi-modal learning, I leverage frameworks like Large Language Models to deliver impactful solutions.
 
 ## Technical Skills
 - **Programming**: Python, PyTorch, TensorFlow, Keras, PySpark, SQL
