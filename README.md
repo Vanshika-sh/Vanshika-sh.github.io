@@ -1,4 +1,4 @@
-# Vanshika Sharma
+# Machine Learning Engineer
 
 Welcome to my GitHub Pages portfolio! I'm a Data Scientist with 5 years of experience in Machine Learning and Natural Language Processing. Specializing in Generative AI and multi-modal learning, I leverage frameworks like Large Language Models to deliver impactful solutions.
 
