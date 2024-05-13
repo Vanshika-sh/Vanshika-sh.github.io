@@ -1,48 +1,47 @@
-# Machine Learning Engineer
+---
+layout: default
+title: Home
+---
 
-Welcome to my GitHub Pages portfolio! I'm a Data Scientist with 5 years of experience in Machine Learning and Natural Language Processing. Specializing in Generative AI and multi-modal learning, I leverage frameworks like Large Language Models to deliver impactful solutions.
+# Welcome to My Portfolio
 
-## Contact
+![Profile Image](path/to/your/profile-image.jpg)
 
-- **Email:** [vanshika.sh3143@gmail.com](mailto:vanshika.sh3143@gmail.com)
-- **LinkedIn:** [Vanshika Sharma](https://www.linkedin.com/in/vanshika-sharma-30112020/)
-- **GitHub:** [@Vanshika-sh](https://github.com/Vanshika-sh)
-- **Blog:** [TowardsDataScience](https://towardsdatascience.com/resnets-why-do-they-perform-better-than-classic-convnets-conceptual-analysis-6a9c82e06e53)
+## Summary
+I am a Data Scientist with an extensive experience of 5 years in leveraging and deploying Machine learning models focused on Natural Language Processing and Generative AI.
 
 ## Technical Skills
-
-- **Programming Languages:** Python, PySpark, SQL
-- **Frameworks/Libraries:** PyTorch, TensorFlow, Keras
-- **Technologies:** Amazon SageMaker, Azure Data Factory, Azure Databricks, Natural Language Processing
-- **Tools:** Large Language/Transformer Models
+- **Programming**: Python, PyTorch, TensorFlow, Keras, PySpark, SQL
+- **Technologies**: Amazon Sagemaker, Azure Databricks, Azure Data Factory, NLP, Database Systems, Large Language/Transformer Models
 
 ## Work Experience
+### Machine Learning Engineer, Nagarro Inc. (Jan 2023 - Present)
+- Devised and executed LLM pipelines using RAG and Prompt Engineering.
 
-### Machine Learning Engineer, Nagarro Inc. - Jan 2023 - Present
-- Developed LLM pipelines using RAG and Prompt Engineering.
-- Performed Data Migration using Azure Data Factory pipelines and Databricks PySpark scripts.
-
-### Research Assistant, SUNY Stony Brook University - May 2022 - Sept 2023
-- Worked on multi-modal Probabilistic Diffusion Models integrated with GPT models.
-- Enhanced real-time indoor object tracking using Dead Reckoning principles and YOLOV3.
-
-### Machine Learning Engineer, TMotions Global Ltd. - Jun 2019 - Aug 2021
-- Implemented NER using BERT for the Portuguese Government's traffic management system.
-- Developed ML models for sentiment analysis using LSTMs, deployed on AWS.
+### Research Assistant (Machine Learning), SUNY Stony Brook University (May 2022 - Sept 2023)
+- Generated Lung CT Images based on conditions using multi-modal Probabilistic Diffusion Models.
 
 ## Education
+- **Masters in Computer Science** from Stony Brook University (Aug 2021 - May 2023)
+- **Bachelor’s in Engineering** from Birla Institute of Technology and Science Pilani (Aug 2015 - Jun 2019)
 
-- **MSc in Computer Science, Data Science/ML Domain**, Stony Brook University, NY, USA - Aug 2021 - May 2023
-- **BE in Computer Science**, Birla Institute of Technology and Science Pilani, India - Aug 2015 - Jun 2019
+## Projects
+- **Lung CT Image Generation**: Generated accurate Lung CT Images integrating Denoising Probabilistic Diffusion Models and GPT models.
+  ![Lung CT Image](path/to/lung-ct-image.jpg)
+  [Watch Project Video](https://www.youtube.com/watch?v=example)
 
-## Research/Academic Projects
+- **IMU and Visual Sensor Pedestrian Tracking**: Real-time Indoor Pedestrian Tracking system using IMU data and CCTV feed.
+  ![Pedestrian Tracking](path/to/pedestrian-tracking.jpg)
+  [Watch Project Video](https://www.youtube.com/watch?v=example)
 
-- [**Lung CT Image Generation Using PyTorch/GPU**](https://github.com/Vanshika-sh/lung-ct-image-generation)
-  Generated Lung CT Images using Denoising Probabilistic Diffusion Models integrated with GPT models.
-  
-- [**IMU and Visual Sensor Pedestrian Tracking Using TensorFlow/OpenCV**](https://github.com/Vanshika-sh/pedestrian-tracking)
-  Developed a real-time Indoor Pedestrian Tracking system using IMU data and CCTV feed.
+## Contact
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/vanshika-sharma-30112020/) or [GitHub](https://github.com/Vanshika-sh).
 
-For more details on my projects and work experience, check out the links provided above.
+## Media Gallery
+### Photos
+![Project Image 1](path/to/project-image1.jpg)
+![Project Image 2](path/to/project-image2.jpg)
 
-
+### Videos
+<iframe width="560" height="315" src="https://www.youtube.com/embed/example1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/example2" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
