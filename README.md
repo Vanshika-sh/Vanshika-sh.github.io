@@ -5,7 +5,7 @@ title: Home
 
 # Welcome to My Portfolio
 
-![Profile Image](path/to/your/profile-image.jpg)
+![Profile Image](IMG_4069.jpg)
 
 ## Summary
 I am a Data Scientist with an extensive experience of 5 years in leveraging and deploying Machine learning models focused on Natural Language Processing and Generative AI.
