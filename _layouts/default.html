@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+    <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
+    {{ content_for :head }}
+  </head>
+  <body>
+    <div class="sidebar">
+      <img src="/path/to/your/profile-image.jpg" alt="Profile Image" class="profile">
+      <div class="contact-info">
+        <p><strong>Email:</strong> <a href="mailto:{{ site.email }}">{{ site.email }}</a></p>
+        <p><strong>Phone:</strong> {{ site.phone }}</p>
+        <p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}" target="_blank">{{ site.linkedin_username }}</a></p>
+        <p><strong>GitHub:</strong> <a href="https://github.com/{{ site.github_username }}" target="_blank">{{ site.github_username }}</a></p>
+      </div>
+      <ul class="nav-links">
+        {% for link in site.nav_links %}
+          <li><a href="{{ link.url }}">{{ link.name }}</a></li>
+        {% endfor %}
+      </ul>
+    </div>
+    <div class="content">
+      {{ content }}
+    </div>
+  </body>
+</html>
