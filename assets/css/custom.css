@@ -24,7 +24,7 @@ body {
 }
 
 img.profile {
-  max-width: 50%;
+  max-width: 75%;
   height: auto;
   border-radius: 50%; /* This makes the image round */
   margin-bottom: 20px;
