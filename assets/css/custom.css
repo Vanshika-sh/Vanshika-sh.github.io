@@ -9,7 +9,7 @@ body {
 .sidebar {
   width: 250px;
   padding: 20px;
-  background: linear-gradient(135deg, #333333, #4a4a4a); /* Gradient from dark grey to darker grey */
+  background: linear-gradient(135deg, #4a4a4a, #c0c0c0); /* Gradient from dark grey to darker grey */
   color: #ffffff; /* White text in sidebar */
 }
 
@@ -21,7 +21,7 @@ body {
 }
 
 img.profile {
-  max-width: 100%;
+  max-width: 50%;
   height: auto;
   border-radius: 50%; /* This makes the image round */
   margin-bottom: 20px;
@@ -40,6 +40,7 @@ h1, h2, h3, h4, h5, h6 {
 .nav-links {
   list-style-type: none;
   padding: 0;
+  color: #a9a9a9;
 }
 
 .nav-links li {
