@@ -1,8 +1,3 @@
----
-layout: default
-title: Home
----
-
 # Welcome to My Portfolio
 
 ![Profile Image](IMG_4069.jpg)
