@@ -9,12 +9,6 @@
     {{ content_for :head }}
   </head>
   <body>
-    <div class="sidebar">
-      <img src="{{ '/assets/images/profile.jpg' | relative_url }}" alt="Profile Image" class="profile">
-      <div class="contact-info">
-        <p><strong>Email:</strong> <a href="mailto:{{ site.email }}">{{ site.email }}</a></p>
-        <p><strong>Phone:</strong> <a href="tel:{{ site.phone }}">{{ site.phone }}</a></p>
-      </div>
       <ul class="nav-links">
         {% for link in site.nav_links %}
           {% if link.sub_links %}
