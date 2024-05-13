@@ -33,7 +33,7 @@ img.profile {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color: #f5f5f5; /* Lightest grey headings */
+  color: #f5f5f5 !important; /* Lightest grey headings */
   font-weight: bold; /* Bold headings */
 }
 
