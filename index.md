@@ -6,7 +6,6 @@ title: Vanshika Sharma
 
 Turning Adversity into Triumph with Positivity and Perseverance!
 
-
 Dynamic ML Engineer with 5 years of experience in deploying and optimizing machine learning models, specializing in NLP. Proficient in using advanced frameworks like Large Language Models, with a strong software development and data science background. Master’s in Computer Science, recognized for problem-solving, creativity, and collaborative mindset, delivering pragmatic solutions in fast-paced environments.
 
 ### My Latest Work:
