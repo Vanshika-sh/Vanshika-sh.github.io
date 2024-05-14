@@ -15,13 +15,19 @@ In this blog, I will explore topics related to large language models, covering f
    - Overview of LLMs
    - Current trends and research
 
+
+
 2. **Applications of Large Language Models**
    - Real-world use cases
    - Impact on various industries
 
+
+
 3. **Challenges in Training and Deploying LLMs**
    - Technical challenges
    - Ethical considerations
+
+
 
 4. **Future Directions in LLMs**
    - Emerging trends
