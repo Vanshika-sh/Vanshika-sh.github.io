@@ -2,6 +2,8 @@
 layout: default
 title: Projects
 ---
+## Projects
+In this space, I will be sharing insights and detailed processes of various projects I have worked on, along with my learnings from each.
 
 ## Lung CT Image Generation
 Generated accurate Lung CT Images integrating Denoising Probabilistic Diffusion Models and GPT models.
