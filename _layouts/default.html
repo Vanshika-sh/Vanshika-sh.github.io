@@ -14,12 +14,12 @@
       <h2 class="sidebar-title">{{ site.name }}</h2>
       <img src="{{ '/assets/images/IMG_4069.png' | relative_url }}" alt="Profile Image" class="profile">
       <div class="social-links">
-        <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}" target="_blank">LinkedIn</a> |
-        <a href="mailto:{{ site.email }}">Email</a> |
-        <a href="https://github.com/{{ site.github_username }}" target="_blank">GitHub</a> |
-        <a href="https://huggingface.co/{{ site.huggingface_username }}" target="_blank">Hugging Face</a> |
-        <a href="https://towardsdatascience.com/@{{ site.towardsdatascience_username }}" target="_blank">TowardsDataScience</a> |
-        <a href="https://medium.com/@{{ site.medium_username }}" target="_blank">Medium</a>
+        <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}" style="color:silver;" target="_blank">LinkedIn</a> |
+        <a href="mailto:{{ site.email }} " style="color:silver;">Email</a> |
+        <a href="https://github.com/{{ site.github_username }}" style="color:silver;" target="_blank">GitHub</a> |
+        <a href="https://huggingface.co/{{ site.huggingface_username }}" style="color:silver;" target="_blank">Hugging Face</a> |
+        <a href="https://towardsdatascience.com/@{{ site.towardsdatascience_username }}" style="color:silver;" target="_blank">TowardsDataScience</a> |
+        <a href="https://medium.com/@{{ site.medium_username }}" style="color:silver;" target="_blank">Medium</a>
       </div>
       <ul class="nav-links">
         {% for link in site.nav_links %}
