@@ -1,3 +1,8 @@
+---
+layout: default
+title: About
+---
+
 ## Technical Skills
 ### Programming: 
 Python, PyTorch, TensorFlow, Keras, PySpark, SQL
