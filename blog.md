@@ -3,37 +3,9 @@ layout: default
 title: Blog
 ---
 
-## Welcome to My Blog
+## Welcome to my Blog
 
-In this space, I will be sharing insights and detailed processes of various projects I have worked on, along with my learnings from each. Additionally, I will cover new topics related to large language models and other advancements in machine learning and AI.
-
----
-
-### Project Processes and Learnings
-
-1. **[Lung CT Image Generation]({{ site.baseurl }}/2024/05/15/lung-ct-image-generation.html)**
-   - Brief overview
-   - Key learnings
-   - Challenges faced
-   - Results and outcomes
-
-2. **[IMU and Visual Sensor Pedestrian Tracking]({{ site.baseurl }}/2024/05/15/imu-visual-sensor-pedestrian-tracking.html)**
-   - Brief overview
-   - Key learnings
-   - Challenges faced
-   - Results and outcomes
-
-3. **Other Project 1**
-   - Brief overview
-   - Key learnings
-   - Challenges faced
-   - Results and outcomes
-
-4. **Other Project 2**
-   - Brief overview
-   - Key learnings
-   - Challenges faced
-   - Results and outcomes
+In this blog, I will explore topics related to large language models, covering foundational concepts and architectural insights for beginners. Additionally, I will delve into the tools and technologies driving advancements in this field and provide summaries of key research papers.
 
 ---
 
