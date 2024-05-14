@@ -15,7 +15,7 @@ Dynamic ML Engineer with 5 years of experience in deploying and optimizing machi
 Developed agents to answer complex document-based questions, perform Q&A and summarization tasks, handle multiple documents, and integrated these agents into a user-friendly Streamlit app with visualized reasoning processes.
 
 #### Evaluation and Optimization of RAG Applications with RAGAs and Trulens: 
-Enhanced the RAG pipeline using advanced retrieval techniques, implemented best evaluation practices, created a Streamlit app for interaction, visualized the agent’s reasoning, and deployed the app using cloud platforms like Streamlit Sharing, Heroku, or AWS.
+Enhanced the RAG pipeline using advanced retrieval techniques like sentence window retrieval and auto-merging retrieval, evaluated the RAG models based on context relevancy, answer relevancy and groundedness.
   
 ### Refined Skills on:
 - Agent development, document analysis, Streamlit integration, visualizing reasoning processes.
