@@ -9,29 +9,14 @@ In this blog, I will explore topics related to large language models, covering f
 
 ---
 
-### New Topics on Large Language Models
+### Upcoming Blogs:
+- Quantization methods 
+- Finetuning Large Laguage Models for domain specific use-cases
+- LLMOps
+- Vector Databases for building LLM Applications
+- Fundamental Concepts to get started with Large Language Models
+- Vector Databases: from Embeddings to Applications
+- Knowledge Graphs for RAG
 
-1. **Introduction to Large Language Models**
-   - Overview of LLMs
-   - Current trends and research
-
-
-
-2. **Applications of Large Language Models**
-   - Real-world use cases
-   - Impact on various industries
-
-
-
-3. **Challenges in Training and Deploying LLMs**
-   - Technical challenges
-   - Ethical considerations
-
-
-
-4. **Future Directions in LLMs**
-   - Emerging trends
-   - Predictions for the future
-
-Stay tuned for in-depth articles and discussions on these exciting topics!
+Stay tuned for in-depth articles and discussions on these topics!
 
