@@ -10,13 +10,13 @@ Dynamic ML Engineer with 5 years of experience in deploying and optimizing machi
 
 ### My Latest Work:
 
-#### Multi-document Agentic RAG with LlamaIndex, GPT-3.5 Turbo, and Streamlit: 
-Developed chat based agents to answer detailed document-based questions, perform Q&A and summarization tasks, handle multiple documents, and integrated these agents into a user-friendly Streamlit app with visualized reasoning processes.
+#### Domain-Specific Chatbot with RAG Techniques and LLMs using Llama_index and Vector Databases
+Developed domain-specific chat based agents to answer detailed document-based questions, perform Q&A and summarization tasks, handle multiple documents, and integrated these agents into a user-friendly Streamlit app with visualized reasoning processes.
 
-#### Evaluation and Optimization of RAG Applications with RAGAs and Trulens: 
+#### Evaluation and Optimization of RAG Applications with RAGAS and Trulens: 
 Enhanced the RAG pipeline using advanced retrieval techniques like sentence window retrieval and auto-merging retrieval, evaluated the RAG models based on context relevancy, answer relevancy and groundedness.
 
-### Finetuned Pythia 70m model using Instruction Finetuning
+### Finetuned Pythia 70m model using Instruction Finetuning and PEFT
   
 ### Refined Skills on:
 - Agent development, document analysis, Streamlit integration, visualizing reasoning processes.
