@@ -2,7 +2,7 @@
 body {
   display: flex;
   flex-direction: row;
-  background-color: #ffffff; /* White background */
+  background-color: #000000; /* White background */
   color: #333333; /* Dark grey text */
   font-family: 'Roboto', sans-serif; /* Use Roboto font */
 }
