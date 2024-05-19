@@ -19,7 +19,7 @@ body {
   font-size: 1.5em;
   margin-bottom: 10px;
   font-weight: 500; /* Medium weight for sidebar title */
-  color: #ffffff;
+  color: #d3d3d3; /* Light grey for sidebar title */
 }
 
 .social-links {
