@@ -14,6 +14,8 @@ In this space, I will be sharing insights and detailed processes of various proj
 - Integrated the above agents into a Streamlit app to create a user-friendly interface for interacting with your agents.
 - Visualized the agent's reasoning process and displayed the answers to complex questions.
 
+  <embed src="{{ '/assets/course-notes/week1_genai_llms.pdf' | relative_url }}">
+
 ### Evaluation and Optimization of RAG Applications using RAGAs and Trulens
 
 - Improved the RAG pipeline using advanced retrieval techniques such as sentence-window retrieval and auto-merging retrieval.
