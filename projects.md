@@ -15,7 +15,7 @@ In this space, I will be sharing insights and detailed processes of various proj
 - Created a user-friendly interface using Streamlit, allowing seamless interaction with the chatbot for domain-specific queries.
 - Addressed challenges such as data privacy, maintaining accuracy, handling ambiguity, and ensuring scalability.
 
-[Read the detailed project document](sandbox:/mnt/data/RAG_Domain_Specific_Chatbot.md)
+[Read the detailed project document](assets/projects/RAG_Domain_Specific_Chatbot.md)
 
 ### Evaluation and Optimization of RAG Applications using RAGAs and Trulens
 
