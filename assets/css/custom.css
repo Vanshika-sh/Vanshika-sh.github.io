@@ -2,8 +2,8 @@
 body {
   display: flex;
   flex-direction: row;
-  background-color: #000000; /* Black background */
-  color: #d3d3d3; /* Light grey text */
+  background-color: #ffffff; /* White background */
+  color: #333333; /* Dark grey text */
   font-family: 'Roboto', sans-serif; /* Use Roboto font */
 }
 
@@ -39,15 +39,16 @@ body {
 .content {
   flex: 1;
   padding: 20px;
-  background-color: #000000; /* Black background */
-  color: #d3d3d3; /* Light grey text */
+  background-color: #ffffff; /* White background */
+  color: #333333; /* Dark grey text */
 }
 
 .main-title {
   font-size: 2em;
   margin-bottom: 20px;
-  font-weight: 500; /* Medium weight for main title */
+  font-weight: normal; /* Normal weight for main title */
   color: #d1c4e9 !important; /* Light purple for main title */
+  font-family: 'Poppins', sans-serif; /* Use Poppins font */
 }
 
 img.profile {
@@ -62,8 +63,8 @@ img.profile {
 
 h1, h2, h3, h4, h5, h6 {
   color: #d1c4e9 !important; /* Light purple headings */
-  font-weight: bold; /* Bold headings */
-  font-family: 'Roboto', sans-serif; /* Use Roboto font */
+  font-weight: normal; /* Normal weight for headings */
+  font-family: 'Poppins', sans-serif; /* Use Poppins font */
 }
 
 .nav-links {
