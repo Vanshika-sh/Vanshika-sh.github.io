@@ -47,7 +47,7 @@ body {
   font-size: 2em;
   margin-bottom: 20px;
   font-weight: normal; /* Normal weight for main title */
-  color: #5d3a8d !important; /* Dark purple for main title */
+  color: #d1c4e9 !important; /* Light purple for main title */
   font-family: 'Poppins', sans-serif; /* Use Poppins font */
 }
 
@@ -62,7 +62,7 @@ img.profile {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color: #5d3a8d !important; /* Dark purple headings */
+  color: #d1c4e9 !important; /* Light purple headings */
   font-weight: normal; /* Normal weight for headings */
   font-family: 'Poppins', sans-serif; /* Use Poppins font */
 }
