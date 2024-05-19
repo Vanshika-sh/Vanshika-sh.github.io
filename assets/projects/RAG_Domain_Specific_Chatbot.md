@@ -22,7 +22,7 @@ In the rapidly evolving field of artificial intelligence, the development of cha
 
 2. **Building the Retrieval System**:
     - **Indexing**: Use techniques like TF-IDF (Term Frequency-Inverse Document Frequency) or more advanced methods like BM25 to index the documents.
-    - **Embedding Generation**: Create vector embeddings for the documents and queries using models like BERT or SBERT, which are particularly effective for semantic search.
+    - **Embedding Generation**: Create vector embeddings for the documents and queries using vector databases, which are particularly effective for semantic search.
     - **Similarity Search**: Implement efficient similarity search algorithms (e.g., cosine similarity, FAISS) to quickly retrieve the most relevant documents based on the query.
 
 3. **Integrating the Generative Model**:
