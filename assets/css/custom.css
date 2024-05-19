@@ -10,7 +10,7 @@ body {
 .sidebar {
   width: 250px;
   padding: 20px;
-  background: linear-gradient(135deg, #333333, #4a4a4a); /* Gradient from dark grey to darker grey */
+  background: linear-gradient(135deg, #6a5acd, #7b68ee); /* Gradient from purplish grey to light purplish grey */
   color: #ffffff; /* White text in sidebar */
   text-align: center; /* Center align the content in sidebar */
 }
@@ -32,7 +32,7 @@ body {
   margin: 0 5px;
 }
 
-.social-links a:hover {
+social-links a:hover {
   text-decoration: underline;
 }
 
