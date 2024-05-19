@@ -16,7 +16,7 @@ Developed domain-specific chat based agents to answer detailed document-based qu
 #### Evaluation and Optimization of RAG Applications with RAGAS and Trulens: 
 Enhanced the RAG pipeline using advanced retrieval techniques like sentence window retrieval and auto-merging retrieval, evaluated the RAG models based on context relevancy, answer relevancy and groundedness.
 
-### Finetuned Pythia 70m model using Instruction Finetuning and PEFT
+#### Finetuned Pythia 70m model using Instruction Finetuning and PEFT
   
 ### Refined Skills on:
 - Agent development, document analysis, Streamlit integration, visualizing reasoning processes.
