@@ -2,8 +2,8 @@
 body {
   display: flex;
   flex-direction: row;
-  background-color: #ffffff; /* White background */
-  color: #333333; /* Dark grey text */
+  background-color: #000000; /* Black background */
+  color: #ffffff; /* White text */
   font-family: 'Roboto', sans-serif; /* Use Roboto font */
 }
 
@@ -39,8 +39,8 @@ body {
 .content {
   flex: 1;
   padding: 20px;
-  background-color: #ffffff; /* White background */
-  color: #333333; /* Dark grey text */
+  background-color: #000000; /* Black background */
+  color: #ffffff; /* White text */
 }
 
 .main-title {
@@ -79,7 +79,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .nav-links a {
   text-decoration: none;
-  color: #a9a9a9; /* Dark grey link color */
+  color: #ffffff; /* White link color */
   font-family: 'Roboto', sans-serif; /* Use Roboto font */
 }
 
