@@ -10,7 +10,7 @@ In this space, I will be sharing insights and detailed processes of various proj
 
 - Developed an agent using GPT-4 model capable of answering complex questions based on documents.
 - Constructed an agent that combines retrieval-based and generative approaches to produce accurate and contextually relevant responses.
-- Built a retrieval system using techniques like TF-IDF and BM25, and created vector embeddings for documents and queries using models like BERT or SBERT.
+- Built a retrieval system using techniques like TF-IDF and BM25, and created vector embeddings for domain specific documents and queries using vector databases.
 - Integrated a generative model fine-tuned on a domain-specific corpus to improve understanding and generation capabilities.
 - Created a user-friendly interface using Streamlit, allowing seamless interaction with the chatbot for domain-specific queries.
 - Addressed challenges such as data privacy, maintaining accuracy, handling ambiguity, and ensuring scalability.
