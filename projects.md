@@ -14,7 +14,7 @@ In this space, I will be sharing insights and detailed processes of various proj
 - Integrated the above agents into a Streamlit app to create a user-friendly interface for interacting with your agents.
 - Visualized the agent's reasoning process and displayed the answers to complex questions.
 
-  <embed src="{{ '/assets/course-notes/week1_genai_llms.pdf' | relative_url }}">
+  <embed src="{{ 'assets/projects/RAG_Domain_Specific_Chatbot.md' | relative_url }}">
 
 ### Evaluation and Optimization of RAG Applications using RAGAs and Trulens
 
