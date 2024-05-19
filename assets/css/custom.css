@@ -1,18 +1,16 @@
 /* assets/css/custom.css */
 body {
   display: flex;
-  flex-direction: column; /* Change layout to column */
-  background-color: #f0f4f8; /* Light grey background */
-  color: #333333; /* Dark grey text */
+  flex-direction: row;
+  background-color: #000000; /* Black background */
+  color: #d3d3d3; /* Light grey text */
   font-family: 'Roboto', sans-serif; /* Use Roboto font */
-  margin: 0;
-  padding: 0;
 }
 
 .sidebar {
-  width: 100%;
+  width: 250px;
   padding: 20px;
-  background: linear-gradient(135deg, #4CAF50, #81C784); /* Gradient from green to light green */
+  background: linear-gradient(135deg, #333333, #4a4a4a); /* Gradient from dark grey to darker grey */
   color: #ffffff; /* White text in sidebar */
   text-align: center; /* Center align the content in sidebar */
 }
@@ -41,15 +39,15 @@ body {
 .content {
   flex: 1;
   padding: 20px;
-  background-color: #ffffff; /* White background */
-  color: #333333; /* Dark grey text */
+  background-color: #000000; /* Black background */
+  color: #d3d3d3; /* Light grey text */
 }
 
 .main-title {
   font-size: 2em;
   margin-bottom: 20px;
   font-weight: 500; /* Medium weight for main title */
-  color: #4CAF50 !important; /* Green for main title */
+  color: #f5f5f5 !important; /* Lightest grey for main title */
 }
 
 img.profile {
@@ -63,7 +61,7 @@ img.profile {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color: #4CAF50 !important; /* Green headings */
+  color: #f5f5f5 !important; /* Lightest grey headings */
   font-weight: bold; /* Bold headings */
   font-family: 'Roboto', sans-serif; /* Use Roboto font */
 }
@@ -80,7 +78,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .nav-links a {
   text-decoration: none;
-  color: #388E3C; /* Dark green link color */
+  color: #a9a9a9; /* Dark grey link color */
   font-family: 'Roboto', sans-serif; /* Use Roboto font */
 }
 
@@ -93,13 +91,13 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 form {
-  background: #81C784; /* Light green background */
+  background: #333333;
   padding: 20px;
   border-radius: 5px;
 }
 
 form label, form input, form textarea {
-  color: #333333; /* Dark grey text */
+  color: #ffffff;
   display: block;
   margin-bottom: 10px;
   font-family: 'Roboto', sans-serif; /* Use Roboto font */
@@ -108,20 +106,19 @@ form label, form input, form textarea {
 form input, form textarea {
   width: 100%;
   padding: 10px;
-  border: 1px solid #A5D6A7; /* Light green border */
-  background: #E8F5E9; /* Very light green background */
-  color: #333333; /* Dark grey text */
+  border: 1px solid #555555;
+  background: #222222;
+  color: #ffffff;
   font-family: 'Roboto', sans-serif; /* Use Roboto font */
 }
 
 form input[type="submit"] {
-  background: #4CAF50; /* Green background */
+  background: #4a4a4a;
   border: none;
   cursor: pointer;
-  color: #ffffff; /* White text */
   font-family: 'Roboto', sans-serif; /* Use Roboto font */
 }
 
 form input[type="submit"]:hover {
-  background: #66BB6A; /* Lighter green on hover */
+  background: #6a6a6a;
 }
