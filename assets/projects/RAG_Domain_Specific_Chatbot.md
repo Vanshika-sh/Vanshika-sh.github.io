@@ -1,4 +1,3 @@
-
 # Developing a Domain-Specific Chatbot Using Retrieval-Augmented Generation (RAG) Techniques and Large Language Models (LLMs)
 
 ## Introduction
@@ -15,7 +14,7 @@ In the rapidly evolving field of artificial intelligence, the development of cha
 3. **Domain-Specific Corpus**: A curated set of documents or data related to the specific domain (e.g., medical journals, financial reports, automotive manuals).
 4. **User Interface**: The front-end application that allows users to interact with the chatbot, often integrated into websites or mobile apps.
 
-(assets/images/rag_chatbot.png)
+![RAG Chatbot](assets/images/rag_chatbot.png)
 
 ## Development Process
 1. **Data Collection and Preparation**:
