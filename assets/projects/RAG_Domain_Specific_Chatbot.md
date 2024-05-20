@@ -15,6 +15,8 @@ In the rapidly evolving field of artificial intelligence, the development of cha
 3. **Domain-Specific Corpus**: A curated set of documents or data related to the specific domain (e.g., medical journals, financial reports, automotive manuals).
 4. **User Interface**: The front-end application that allows users to interact with the chatbot, often integrated into websites or mobile apps.
 
+(assets/projects/RAG_Domain_Specific_Chatbot.md)
+
 ## Development Process
 1. **Data Collection and Preparation**:
     - **Corpus Compilation**: Gather a comprehensive set of documents relevant to the target domain. For example, in the medical domain, this might include clinical guidelines, research papers, and medical textbooks.
