@@ -5,6 +5,9 @@ title: Certifications
 
 ## Certifications
 
+#### Building Enterprise-ready Gen Al Applications - Weaviate
+<embed src="{{ 'assets/certifications/prod_genai_llm_Certificate.png' | relative_url }}" width="100%" height="600px" type="application/pdf">
+
 ### Neural Networks and Deep Learning - DeepLearning.ai 
 <embed src="{{ 'assets/certifications/nn_cert.pdf' | relative_url }}" width="100%" height="600px" type="application/pdf">
 
