@@ -1,23 +1,19 @@
 ---
 layout: default
-title: Course Notes
+title: Certifications
 ---
 
 ## Certifications
 
 ### Neural Networks and Deep Learning - DeepLearning.ai 
-Below you can find the notes to this course, week-wise. You can preview the PDF document directly on this page or download it from the link given below.
-#### Week - 1
 <embed src="{{ 'assets/certifications/nn_cert.pdf' | relative_url }}" width="100%" height="600px" type="application/pdf">
 
-If you cannot view the PDF, you can download it [here]({{ '/assets/course-notes.pdf' | relative_url }}).
 
-#### Week - 2
+#### Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization - DeepLearning.ai 
 <embed src="{{ 'assets/certifications/hyp_cert.pdf' | relative_url }}" width="100%" height="600px" type="application/pdf">
 
-If you cannot view the PDF, you can download it [here]({{ '/assets/course-notes.pdf' | relative_url }}).
 
-#### Week - 2
-<embed src="{{ 'assets/certifications/hyp_cert.pdf' | relative_url }}" width="100%" height="600px" type="application/pdf">
+#### Convolutional Neural Networks - DeepLearning.ai
+<embed src="{{ 'assets/certifications/CNN_Cert.pdf' | relative_url }}" width="100%" height="600px" type="application/pdf">
 
-If you cannot view the PDF, you can download it [here]({{ '/assets/course-notes.pdf' | relative_url }}).
+
