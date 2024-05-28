@@ -25,6 +25,13 @@ In this space, I will be sharing insights and detailed processes of various proj
 - Utilized Streamlit components to visualize the agent's reasoning process with trace logs, dependency graphs, and interactive elements.
 - Deployed the app by installing Streamlit, creating and testing the app locally, and using cloud platforms like Streamlit Sharing, Heroku, or AWS for broader accessibility.
 
+### Finetuning FLAN-T5 and LLama3 using PEFT Techniques like LoRA and QLoRA
+- Setup Environment: Installed necessary libraries (transformers, datasets, peft, torch) and configured the environment.
+- Data Preparation: Loaded and preprocessed datasets, then tokenized them using respective tokenizers.
+- Model Initialization: Loaded pre-trained FLAN-T5 and LLama3 models and initialized LoRA/QLoRA modules.
+- Configure PEFT: Integrated LoRA/QLoRA with the models and set configuration parameters (rank, alpha, dropout).
+- Training and Evaluation: Defined training parameters, trained the models, evaluated on validation sets, and saved the fine-tuned models.
+
 ## Lung CT Image Generation
 Generated accurate Lung CT Images integrating Denoising Probabilistic Diffusion Models and GPT models.
 ![Lung CT Image](path/to/lung-ct-image.jpg)
