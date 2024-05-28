@@ -29,17 +29,19 @@ Enhanced the RAG pipeline using advanced retrieval techniques like sentence wind
 - Model Initialization: Loaded pre-trained FLAN-T5 and LLama3 models and initialized LoRA/QLoRA modules.
 - Configure PEFT: Integrated LoRA/QLoRA with the models and set configuration parameters (rank, alpha, dropout).
 - Training and Evaluation: Defined training parameters, trained the models, evaluated on validation sets, and saved the fine-tuned models.
-  
+
+<img src="rouge.png" alt="Project Logo" width="600"/>
+
 ### Refined Skills on:
 - Agent development, document analysis, Streamlit integration, visualizing reasoning processes.
 - Retrieval optimization techniques, evaluation metrics, cloud deployment
+- PEFT Finetuning: LoRA and QLoRA
+- RLHF
 
 
-### Latest Blogs:
-- Quantization methods 
+### Upcoming Blogs:
+- LLM Quantization methods 
 - Finetuning Large Laguage Models for domain specific use-cases
-- LLMOps
-- Vector Databases for building LLM Applications
-- Fundamental Concepts to get started with Large Language Models
-- Vector Databases: from Embeddings to Applications
+- Building Prod-Ready RAG Applications 
+- Vector Databases for building LLM Applications - Embeddings to Deployment
 - Knowledge Graphs for RAG
