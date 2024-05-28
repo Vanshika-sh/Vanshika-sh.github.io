@@ -13,8 +13,8 @@ Dynamic ML Engineer with 5 years of experience in deploying and optimizing machi
 #### Task-Specific Chatbot with RAG trained for Document Q&A using Agents and Instruct Fine-Tuning in Llama_index 
 Developed domain-specific chat based agents to answer detailed document-based questions, perform Q&A and summarization tasks, handle multiple documents, and integrated these agents into a user-friendly Streamlit app with visualized reasoning processes.
 
-<img src="assets/images/rag_chatbot1.png" alt="Project Logo" width="300"/>
-<img src="assets/images/rag2.png" alt="Project Logo" width="300"/>
+<img src="assets/images/rag_chatbot1.png" alt="Project Logo" width="500"/>
+<img src="assets/images/rag2.png" alt="Project Logo" width="500"/>
 
 #### Evaluation and Optimization of RAG Applications with RAGAS and Trulens: 
 
