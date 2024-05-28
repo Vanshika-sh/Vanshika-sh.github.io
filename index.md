@@ -20,7 +20,8 @@ Developed domain-specific chat based agents to answer detailed document-based qu
 
 Enhanced the RAG pipeline using advanced retrieval techniques like sentence window retrieval and auto-merging retrieval, evaluated the RAG models based on context relevancy, answer relevancy and groundedness.
 
-(assets/projects/RAG_Domain_Specific_Chatbot.md)
+<img src="assets/images/rag_eval.png" alt="Project Logo" width="600"/>
+
 
 ### Finetuning FLAN-T5 and LLama3 using PEFT Techniques like LoRA and QLoRA
 - Setup Environment: Installed necessary libraries (transformers, datasets, peft, torch) and configured the environment.
