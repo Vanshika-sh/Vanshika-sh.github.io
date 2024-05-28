@@ -32,9 +32,19 @@ Enhanced the RAG pipeline using advanced retrieval techniques like sentence wind
 
 <img src="rouge.png" alt="Project Logo" width="500"/>
 
-### Projects Currently in the Pipeline:
+### Projects Currently in Progres:
 - RAFT - Retrieval Augmented Fine-Tuning for optimizing domain specific RAG Chatbot, for specialized tasks and context
 - Multi-Tenant RAG using LLama_Index and Weaviate Vector Database
+- Advanced RAG Techniques - Vectore Store Creation
+· Method: Naive Retriever
+· Method: Parent Document Retriever
+· Method: Self Query Retriever
+∘ Query Constructor
+∘ Query Translater
+· Method: Contextual Compression Retriever (Reranking)
+· Conclusion
+
+
 
 ### Refined Skills on:
 - Agent development, document analysis, Streamlit integration, visualizing reasoning processes.
