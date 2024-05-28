@@ -8,15 +8,16 @@ Turning Adversity into Triumph with Positivity and Perseverance!
 
 Dynamic ML Engineer with 5 years of experience in deploying and optimizing machine learning models, specializing in NLP. Proficient in using advanced frameworks like Large Language Models, with a strong software development and data science background. Master’s in Computer Science, recognized for problem-solving, creativity, and collaborative mindset, delivering pragmatic solutions in fast-paced environments.
 
-![Project Screenshot](assets/images/rag_chatbot1.png)
-![Project Screenshot](assets/images/rag2.png)
-
 ### My Latest Work:
 
-#### Domain-Specific Chatbot with RAG trained for Q&A LLM Specific Research Papers using Agents in Llama_index 
+#### Task-Specific Chatbot with RAG trained for Document Q&A using Agents and Instruct Fine-Tuning in Llama_index 
 Developed domain-specific chat based agents to answer detailed document-based questions, perform Q&A and summarization tasks, handle multiple documents, and integrated these agents into a user-friendly Streamlit app with visualized reasoning processes.
 
+<img src="assets/images/rag_chatbot1.png" alt="Project Logo" width="300"/>
+<img src="assets/images/rag2.png" alt="Project Logo" width="300"/>
+
 #### Evaluation and Optimization of RAG Applications with RAGAS and Trulens: 
+
 Enhanced the RAG pipeline using advanced retrieval techniques like sentence window retrieval and auto-merging retrieval, evaluated the RAG models based on context relevancy, answer relevancy and groundedness.
 
 (assets/projects/RAG_Domain_Specific_Chatbot.md)
