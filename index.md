@@ -8,6 +8,8 @@ Turning Adversity into Triumph with Positivity and Perseverance!
 
 Dynamic ML Engineer with 5 years of experience in deploying and optimizing machine learning models, specializing in NLP. Proficient in using advanced frameworks like Large Language Models, with a strong software development and data science background. Master’s in Computer Science, recognized for problem-solving, creativity, and collaborative mindset, delivering pragmatic solutions in fast-paced environments.
 
+![Project Screenshot](screenshots/main.png)
+
 ### My Latest Work:
 
 #### Domain-Specific Chatbot with RAG trained for Q&A LLM Specific Research Papers using Agents in Llama_index 
@@ -18,7 +20,12 @@ Enhanced the RAG pipeline using advanced retrieval techniques like sentence wind
 
 (assets/projects/RAG_Domain_Specific_Chatbot.md)
 
-#### Finetuned Pythia 70m model using Instruction Finetuning and PEFT
+### Finetuning FLAN-T5 and LLama3 using PEFT Techniques like LoRA and QLoRA
+- Setup Environment: Installed necessary libraries (transformers, datasets, peft, torch) and configured the environment.
+- Data Preparation: Loaded and preprocessed datasets, then tokenized them using respective tokenizers.
+- Model Initialization: Loaded pre-trained FLAN-T5 and LLama3 models and initialized LoRA/QLoRA modules.
+- Configure PEFT: Integrated LoRA/QLoRA with the models and set configuration parameters (rank, alpha, dropout).
+- Training and Evaluation: Defined training parameters, trained the models, evaluated on validation sets, and saved the fine-tuned models.
   
 ### Refined Skills on:
 - Agent development, document analysis, Streamlit integration, visualizing reasoning processes.
