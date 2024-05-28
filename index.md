@@ -30,7 +30,7 @@ Enhanced the RAG pipeline using advanced retrieval techniques like sentence wind
 - Configure PEFT: Integrated LoRA/QLoRA with the models and set configuration parameters (rank, alpha, dropout).
 - Training and Evaluation: Defined training parameters, trained the models, evaluated on validation sets, and saved the fine-tuned models.
 
-<img src="rouge.png" alt="Project Logo" width="600"/>
+<img src="rouge.png" alt="Project Logo" width="500"/>
 
 ### Refined Skills on:
 - Agent development, document analysis, Streamlit integration, visualizing reasoning processes.
